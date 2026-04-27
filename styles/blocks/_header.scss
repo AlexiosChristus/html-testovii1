@@ -69,8 +69,6 @@
     }
 
     &__logo {
-        margin-left: 20px;
-
         @include tablet {
             max-width: 120px;
         }
